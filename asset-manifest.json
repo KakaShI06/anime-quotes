@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/anime-quotes/static/css/main.4c90fab3.chunk.css",
+    "main.js": "/anime-quotes/static/js/main.b6ba986a.chunk.js",
+    "main.js.map": "/anime-quotes/static/js/main.b6ba986a.chunk.js.map",
+    "runtime-main.js": "/anime-quotes/static/js/runtime-main.b23b80fc.js",
+    "runtime-main.js.map": "/anime-quotes/static/js/runtime-main.b23b80fc.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/anime-quotes/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6dc644f1.chunk.js": "/anime-quotes/static/js/2.6dc644f1.chunk.js",
+    "static/js/2.6dc644f1.chunk.js.map": "/anime-quotes/static/js/2.6dc644f1.chunk.js.map",
+    "index.html": "/anime-quotes/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/anime-quotes/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4c90fab3.chunk.css.map": "/anime-quotes/static/css/main.4c90fab3.chunk.css.map",
+    "static/js/2.6dc644f1.chunk.js.LICENSE.txt": "/anime-quotes/static/js/2.6dc644f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b23b80fc.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6dc644f1.chunk.js",
+    "static/css/main.4c90fab3.chunk.css",
+    "static/js/main.b6ba986a.chunk.js"
+  ]
+}
