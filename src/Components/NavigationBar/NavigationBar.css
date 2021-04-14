@@ -1,0 +1,12 @@
+
+h1 {
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-family :'Times New Roman', Times, serif;
+}
+
+nav {
+    background-color: black;
+    width: 100%;
+}

@@ -1,0 +1,28 @@
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+} 
+
+.form-content {
+  margin: 2.5px;
+  height: 12px;
+}
+
+.container {
+  margin-top: 20px;
+  min-height: 200vh;
+  display: grid;
+
+}
+
+.items{
+  background-color: rgba(31, 27, 27, 0.603);
+  color: white;
+  margin : 10px;
+  padding : 10px;
+  border-radius : 10px;
+}
+
+
